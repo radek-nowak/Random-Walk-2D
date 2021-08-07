@@ -7,3 +7,7 @@ Each step of the walk is performed in the following way. A number between 0 and 
 An exemplary trajectory for such movement:
 
 ![walk_ex](example_walk.jpg)
+
+It appears that for such movement, average travelled distance is proportional to sqrare root of number of steps:
+
+![fit](sqrt.jpg)
