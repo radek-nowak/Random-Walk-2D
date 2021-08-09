@@ -11,3 +11,7 @@ An exemplary trajectory for such movement:
 It appears that for such movement, average travelled distance is proportional to sqrare root of number of steps:
 
 ![fit](sqrt.jpg)
+
+
+## step_cauchy
+Work in progress...
